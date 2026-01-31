@@ -25,8 +25,7 @@ and working on real-world projects to grow as a designer and developer.
 ## 🛠️ Skills
 🎨 Figma | Canva  
 💻 HTML | CSS  
-☕ Java | 🐍 Python | 🗄️ MySQL  
-🇯🇵 JLPT N4  
+☕ Java | 🐍 Python | 🗄️ MySQL   JLPT N4  
 
 ## 📌 Projects
 📚 Book Store Management System  
