@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Atchaya Rengaraj</h1>
+<h1 align="center">Hi  👋, I'm Atchaya Rengaraj</h1>
 <h3 align="center">UI/UX Designer |JLPT N4 |  Full stack Developer</h3>
 
  ## 💫 About Me
