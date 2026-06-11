@@ -1,36 +1,23 @@
+## 📌 Featured Projects
 
+### 🚗 Vehicle Accident Detection System
+Real-time IoT + smartphone-based accident detection with emergency alerts.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-<h1 align="center">Hi  👋, I'm Atchaya Rengaraj</h1>
-<h3 align="center">UI/UX Designer |JLPT N4 |  Full stack Developer</h3>
+---
 
- ## 💫 About Me
+### 🔥 Smart Fire Monitoring System
+IoT-driven fire monitoring with automated control and emergency alerts.  
+![Embedded Systems](https://img.shields.io/badge/Embedded-00979D?style=flat&logo=raspberrypi&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-FF5722?style=flat&logo=googlehome&logoColor=white)
+![Alert System](https://img.shields.io/badge/Alert-FF0000?style=flat&logo=bell&logoColor=white)
 
+---
 
-🎨 I’m a creative and enthusiastic designer with a strong interest in UI/UX design.
-I enjoy creating visually attractive and user-friendly designs using tools like
-Figma and Canva.
-
-💻 I also have experience in full stack , web development using HTML , CSS , php 
-and I possess basic programming knowledge in Java, Python, and MySQL.
-
- I have successfully completed **Japanese Language Proficiency Level N4 (JLPT N4)**,
-which helps me communicate and understand basic Japanese language concepts.
-
-🚀 I am passionate about learning new technologies, improving my design skills,
-and working on real-world projects to grow as a designer and developer.
-
-✨ *“Design with purpose. Build with passion.”*
-
-
-## 🛠️ Skills
-🎨 Figma | Canva  
-💻 HTML | CSS  
-☕ Java | 🐍 Python | 🗄️ MySQL |  JLPT N4  
-
-## 📌 Projects
-📚 Book Store Management System  
-🏠 Real Estate Website  
-
-## 📫 Connect with Me
-🔗 LinkedIn:[ your-link](https://www.linkedin.com/in/r-atchaya-832628290/)
-
+### 🌐 Real Estate Site
+Dynamic property listing web app with search and filter features.  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
