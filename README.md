@@ -15,13 +15,25 @@
 ---
 
 ## 👩‍💻 About Me
-Motivated and detail-oriented Information Technology undergraduate with hands-on experience in full-stack fundamentals, UI/UX design, and IoT-based systems.  
-Currently interning at Cognifyz Technology, focusing on user-centered design.  
-Passionate about building impactful, accessible technology solutions.
+Motivated Information Technology undergraduate with hands-on experience in **web development**, **UI/UX design**, and **IoT-based systems**.  
+Currently interning at Cognifyz Technology, focusing on user-centered design and accessible tech solutions.  
+Passionate about combining creativity and technology to make a real-world impact.
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Projects Overview
+
+### 🚗 Vehicle Accident Detection System  
+IoT-based smartphone project that detects accidents using sensors and triggers emergency alerts automatically.  
+**Tech Used:** Python, IoT Sensors, Voice Assistant API, Android  
+
+### 🔥 Smart Fire Monitoring System  
+Embedded IoT system that monitors temperature and smoke levels, sending instant alerts to prevent hazards.  
+**Tech Used:** Embedded Systems, Sensors, Alert Notification System  
+
+---
+
+## 🧰 Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,20 +44,6 @@ Passionate about building impactful, accessible technology solutions.
 
 ---
 
-## 🚀 Projects
-### 🚗 Vehicle Accident Detection System  
-Smartphone-based IoT system with real-time accident alerts.  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=arduino&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-### 🔥 Smart Fire Monitoring System  
-IoT-driven fire monitoring with automated control and emergency alerts.  
-![Embedded Systems](https://img.shields.io/badge/Embedded-00979D?style=flat&logo=raspberrypi&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-FF5722?style=flat&logo=googlehome&logoColor=white)
-
----
-
 ## 🏆 Certifications
 - JLPT N4 Certified (N3 in progress)  
 - NPTEL – Human Computer Interaction, Cloud Computing  
@@ -53,9 +51,10 @@ IoT-driven fire monitoring with automated control and emergency alerts.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtchayaR2005&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtchayaR2005&layout=compact&theme=radical)
+## 🌐 Connect With Me
+📧 **Email:** [atchaya452005@gmail.com](mailto:atchaya452005@gmail.com)  
+📱 **Phone:** +91-7810056695  
+🔗 **LinkedIn:** [linkedin.com/in/r-atchaya-832628290](https://linkedin.com/in/r-atchaya-832628290)
 
 ---
 
