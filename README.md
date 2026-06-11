@@ -1,68 +1,64 @@
-# ATCHAYA RENGARAJ  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=I'm%20Atchaya%20Rengaraj!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-**Web Developer | JLPT N4 Certified | UI/UX Intern | IEEE Published Author**  
+---
+
+### 💻 Web Developer | UI/UX Intern | IEEE Author | JLPT N4 Certified  
 
 📍 Karur, Tamil Nadu  
 📧 atchaya452005@gmail.com  
 📱 +91-7810056695  
-🔗 [LinkedIn](https://linkedin.com/in/r-atchaya-832628290)  
+🔗 [LinkedIn](https://linkedin.com/in/r-atchaya-832628290)
 
 ---
 
-## 👩‍💻 Profile
-Motivated and detail-oriented Information Technology undergraduate with hands-on experience in full-stack fundamentals, UI/UX design, and IoT-based systems. Proficient in HTML, CSS, Java, Python, and SQL, with a strong foundation in Japanese language (JLPT N4 certified, N3 in progress). Published IEEE author with experience in sensor-based embedded systems. Currently interning at Cognifyz Technology, focusing on user-centered design. Passionate about building impactful, accessible technology solutions.
+## 👩‍💻 About Me
+Motivated and detail-oriented Information Technology undergraduate with hands-on experience in full-stack fundamentals, UI/UX design, and IoT-based systems.  
+Currently interning at Cognifyz Technology, focusing on user-centered design.  
+Passionate about building impactful, accessible technology solutions.
 
 ---
 
-## 🎓 Education
-**B.Tech – Information Technology (2023 – 2027)**  
-M. Kumarasamy College of Engineering, Karur  
-CGPA: 7.9  
-
----
-
-## 🛠 Technical Skills
-- **Languages:** HTML, CSS, Java, Python, SQL  
-- **Tools & Platforms:** VS Code, GitHub, Eclipse, XAMPP, Figma  
-- **UI/UX Design:** Wireframing, Prototyping, User Research (Figma)  
-- **Japanese Language:** JLPT N4 (Certified), N3 (Pursuing)  
-
----
-
-## 💼 Internship Experience
-**UI/UX Design Intern (2025 – Present)**  
-Cognifyz Technology  
-- Designing user-centered interfaces and interactive prototypes using Figma  
-- Conducting usability research and translating findings into design improvements  
-- Collaborating with development teams to ensure design-to-code consistency  
+## 🧰 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Projects
-- **Multi-Sensor Smartphone-Based Vehicle Accident Detection & Emergency Reporting System**  
-  Technologies: Python, IoT Sensors, Voice Assistant API, Android  
-  - Developed a smartphone-based system using multiple sensors to detect vehicle accidents in real time  
-  - Integrated voice assistant validation to confirm accidents and automatically trigger emergency alerts  
-  - Published research findings in IEEE journal  
+### 🚗 Vehicle Accident Detection System  
+Smartphone-based IoT system with real-time accident alerts.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-- **Smart Fire Monitoring, Control & Emergency Alert System**  
-  Technologies: IoT Sensors, Embedded Systems, Alert Notification System  
-  - Built an IoT-driven fire monitoring system with real-time temperature and smoke sensors  
-  - Implemented automated control mechanism and emergency alert notifications  
-
----
-
-## 🏆 Certifications & Achievements
-- NPTEL Certificate – Human Computer Interaction | IIT  
-- NPTEL Certificate – Cloud Computing | IIT  
-- JLPT N4 Certification – Japanese Language Proficiency (N3 in progress)  
-- IEEE Paper Publication – Accident Detection System  
-- 24-Hour Hackathon Participant | KPR Institute of Engineering and Technology  
+### 🔥 Smart Fire Monitoring System  
+IoT-driven fire monitoring with automated control and emergency alerts.  
+![Embedded Systems](https://img.shields.io/badge/Embedded-00979D?style=flat&logo=raspberrypi&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-FF5722?style=flat&logo=googlehome&logoColor=white)
 
 ---
 
-## 🎯 Areas of Interest
-- UI/UX Design & Prototyping  
-- Web Development  
-- IoT & Embedded Systems  
-- Japanese Language & Culture  
+## 🏆 Certifications
+- JLPT N4 Certified (N3 in progress)  
+- NPTEL – Human Computer Interaction, Cloud Computing  
+- IEEE Publication – Accident Detection System  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtchayaR2005&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtchayaR2005&layout=compact&theme=radical)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" />
+</p>
