@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 Web Developer | UI/UX Intern | IEEE Author | JLPT N4 Certified  
+### 💻 Frontend Developer | UI/UX Intern | IEEE Author | JLPT N4 Certified  
 
 📍 Karur, Tamil Nadu  
 📧 atchaya452005@gmail.com  
@@ -15,8 +15,8 @@
 ---
 
 ## 👩‍💻 About Me
-Motivated Information Technology undergraduate with hands-on experience in **web development**, **UI/UX design**, and **IoT-based systems**.  
-Currently interning at Cognifyz Technology, focusing on user-centered design and accessible tech solutions.  
+Motivated Information Technology undergraduate with hands-on experience in **frontend development**, **UI/UX design**, and **IoT-based systems**.  
+Currently interning at Cognifyz Technology, focusing on user-centered design and accessible tech solutions.Exploring Japanese language & culture — JLPT N4 certified, currently pursuing N3. 
 Passionate about combining creativity and technology to make a real-world impact.
 
 ---
