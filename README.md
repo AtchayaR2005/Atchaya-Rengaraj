@@ -1,23 +1,68 @@
-## 📌 Featured Projects
+# ATCHAYA RENGARAJ  
 
-### 🚗 Vehicle Accident Detection System
-Real-time IoT + smartphone-based accident detection with emergency alerts.  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=arduino&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+**Web Developer | JLPT N4 Certified | UI/UX Intern | IEEE Published Author**  
 
----
-
-### 🔥 Smart Fire Monitoring System
-IoT-driven fire monitoring with automated control and emergency alerts.  
-![Embedded Systems](https://img.shields.io/badge/Embedded-00979D?style=flat&logo=raspberrypi&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-FF5722?style=flat&logo=googlehome&logoColor=white)
-![Alert System](https://img.shields.io/badge/Alert-FF0000?style=flat&logo=bell&logoColor=white)
+📍 Karur, Tamil Nadu  
+📧 atchaya452005@gmail.com  
+📱 +91-7810056695  
+🔗 [LinkedIn](https://linkedin.com/in/r-atchaya-832628290)  
 
 ---
 
-### 🌐 Real Estate Site
-Dynamic property listing web app with search and filter features.  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+## 👩‍💻 Profile
+Motivated and detail-oriented Information Technology undergraduate with hands-on experience in full-stack fundamentals, UI/UX design, and IoT-based systems. Proficient in HTML, CSS, Java, Python, and SQL, with a strong foundation in Japanese language (JLPT N4 certified, N3 in progress). Published IEEE author with experience in sensor-based embedded systems. Currently interning at Cognifyz Technology, focusing on user-centered design. Passionate about building impactful, accessible technology solutions.
+
+---
+
+## 🎓 Education
+**B.Tech – Information Technology (2023 – 2027)**  
+M. Kumarasamy College of Engineering, Karur  
+CGPA: 7.9  
+
+---
+
+## 🛠 Technical Skills
+- **Languages:** HTML, CSS, Java, Python, SQL  
+- **Tools & Platforms:** VS Code, GitHub, Eclipse, XAMPP, Figma  
+- **UI/UX Design:** Wireframing, Prototyping, User Research (Figma)  
+- **Japanese Language:** JLPT N4 (Certified), N3 (Pursuing)  
+
+---
+
+## 💼 Internship Experience
+**UI/UX Design Intern (2025 – Present)**  
+Cognifyz Technology  
+- Designing user-centered interfaces and interactive prototypes using Figma  
+- Conducting usability research and translating findings into design improvements  
+- Collaborating with development teams to ensure design-to-code consistency  
+
+---
+
+## 🚀 Projects
+- **Multi-Sensor Smartphone-Based Vehicle Accident Detection & Emergency Reporting System**  
+  Technologies: Python, IoT Sensors, Voice Assistant API, Android  
+  - Developed a smartphone-based system using multiple sensors to detect vehicle accidents in real time  
+  - Integrated voice assistant validation to confirm accidents and automatically trigger emergency alerts  
+  - Published research findings in IEEE journal  
+
+- **Smart Fire Monitoring, Control & Emergency Alert System**  
+  Technologies: IoT Sensors, Embedded Systems, Alert Notification System  
+  - Built an IoT-driven fire monitoring system with real-time temperature and smoke sensors  
+  - Implemented automated control mechanism and emergency alert notifications  
+
+---
+
+## 🏆 Certifications & Achievements
+- NPTEL Certificate – Human Computer Interaction | IIT  
+- NPTEL Certificate – Cloud Computing | IIT  
+- JLPT N4 Certification – Japanese Language Proficiency (N3 in progress)  
+- IEEE Paper Publication – Accident Detection System  
+- 24-Hour Hackathon Participant | KPR Institute of Engineering and Technology  
+
+---
+
+## 🎯 Areas of Interest
+- UI/UX Design & Prototyping  
+- Web Development  
+- IoT & Embedded Systems  
+- Japanese Language & Culture  
