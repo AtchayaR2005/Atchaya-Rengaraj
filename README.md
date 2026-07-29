@@ -7,14 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C5CE7&center=true&vCenter=true&width=760&lines=Building+Intelligent+Disaster+Response+Simulation;Java+21+%E2%80%93+Spring+Boot+3+%E2%80%93+SQL+%E2%80%93+Leaflet;UI%2FUX+designer+crafting+clean+interfaces" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtchayaR2005&label=Profile%20views&color=6C5CE7&style=flat" alt="profile views" />
-  <a href="https://github.com/AtchayaR2005?tab=repositories&sort=stargazers">
-    <img alt="total stars" src="https://img.shields.io/github/stars/AtchayaR2005?affiliations=owner%2Ccollaborator&style=flat&label=Total%20Stars&color=6C5CE7" />
-  </a>
-  <img src="https://img.shields.io/badge/Available%20for%20Work-20BF55?style=flat&label=Status" />
-</p>
-
 ---
 
 ### 👩‍💻 Java Developer · UI/UX Designer · JLPT N4 · Karur, Tamil Nadu
