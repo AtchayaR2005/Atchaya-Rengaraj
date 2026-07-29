@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C5CE7&center=true&vCenter=true&width=700&lines=Building+ResilientPulse+%E2%80%94+BI+disaster+simulation;Java+21+%E2%80%93+Spring+Boot+3+%E2%80%93+SQL+%E2%80%93+Leaflet;UI%2FUX+designer+crafting+clean+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C5CE7&center=true&vCenter=true&width=760&lines=Building+Intelligent+Disaster+Response+Simulation;Java+21+%E2%80%93+Spring+Boot+3+%E2%80%93+SQL+%E2%80%93+Leaflet;UI%2FUX+designer+crafting+clean+interfaces" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 Information Technology undergraduate passionate about building **data-driven Java applications** and **user-friendly interfaces**.  
 Currently focused on full-stack Java development with Spring Boot, SQL databases, and modern BI dashboards, while exploring Japanese language & culture (JLPT N4 certified, pursuing N3).
 
-- 🎯 Currently working on **ResilientPulse** — a BI-driven disaster simulation & emergency training platform
+- 🎯 Currently working on **Intelligent Disaster Response Simulation** — a BI-driven disaster simulation & performance evaluation system
 - 🌱 Learning **Spring Security, microservices architecture, and Docker**
 - 💬 Ask me about **Java, Spring Boot, SQL, UI/UX design, and Japanese basics**
 - 📄 NPTEL-certified in **Human–Computer Interaction** and **Cloud Computing**
@@ -43,9 +43,9 @@ Currently focused on full-stack Java development with Spring Boot, SQL databases
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚨 ResilientPulse (Java Edition)</h3>
-      <p><em>BI-Driven Disaster Simulation & Training App</em></p>
-      <p>A Monte-Carlo disaster-response simulator with a live Leaflet map, Chart.js dashboards, readiness reports, and historical benchmarking — built from the ground up in Java/Spring Boot.</p>
+      <h3>🚨 Intelligent Disaster Response Simulation</h3>
+      <p><em>&amp; Performance Evaluation System Using Predictive Modeling</em></p>
+      <p>A Monte-Carlo disaster-response simulator with a live Leaflet map, Chart.js dashboards, readiness reports, and historical benchmarking — built from the ground up in Java/Spring Boot to evaluate emergency response performance through predictive modeling.</p>
       <p>
         <img src="https://img.shields.io/badge/Java_21-007396?style=flat&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring&logoColor=white" />
@@ -63,7 +63,7 @@ Currently focused on full-stack Java development with Spring Boot, SQL databases
         <li>🧾 Markdown readiness report export</li>
         <li>⚡ Session-scoped simulation state (REST API)</li>
       </ul>
-      <p>👉 <a href="https://github.com/AtchayaR2005/ResilientPulse-Java"><strong>View ResilientPulse-Java →</strong></a></p>
+      <p>👉 <a href="https://github.com/AtchayaR2005/Intelligent-Disaster-Response-Simulation"><strong>View Intelligent Disaster Response Simulation →</strong></a></p>
     </td>
   </tr>
 </table>
@@ -74,12 +74,12 @@ Currently focused on full-stack Java development with Spring Boot, SQL databases
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 1 | 🚨 [ResilientPulse-Java](https://github.com/AtchayaR2005/ResilientPulse-Java) | BI-driven disaster simulation & emergency training | Java 21, Spring Boot 3, SQL, Leaflet, Chart.js |
-| 2 | 🚗 [Multi-Sensor Accident Detection](https://github.com/AtchayaR2005/multi-sensor-based-vehicle-accident-detection-and-reporting-system) | Smartphone-based accident detection w/ GPS alerts | JavaScript, HTML, CSS, PWA |
-| 3 | 🧠 [Intelligent Disaster Response Simulation](https://github.com/AtchayaR2005/Intelligent-Disaster-Response-Simulation-Monte-Carlo-) | Monte-Carlo based disaster response simulator | — |
-| 4 | 💼 [Java FSE](https://github.com/AtchayaR2005/Java-FSE) | Full-stack Java exercises & mini-projects | Java |
-| 5 | 🏠 [Real Estate Site](https://github.com/AtchayaR2005/real-estate-site) | Responsive property listing website | HTML, Tailwind CSS |
-| 6 | 📚 [Bookstore](https://github.com/AtchayaR2005/bookstore) | Online bookstore with cart & login | PHP, SQL, HTML, CSS |
+| 1 | 🚨 [Intelligent Disaster Response Simulation](https://github.com/AtchayaR2005/Intelligent-Disaster-Response-Simulation) | Performance evaluation via predictive modeling for emergency response | Java 21, Spring Boot 3, SQL, Leaflet, Chart.js |
+| 2 | 🚗 [Multi-Sensor Accident Detection](https://github.com/AtchayaR2005/multi-sensor-based-vehicle-accident-detection-and-reporting-system) | Smartphone-based accident detection w/ GPS alerts (IEEE published) | JavaScript, HTML, CSS, PWA |
+| 3 | 💼 [Java FSE](https://github.com/AtchayaR2005/Java-FSE) | Full-stack Java exercises & mini-projects | Java |
+| 4 | 🏠 [Real Estate Site](https://github.com/AtchayaR2005/real-estate-site) | Responsive property listing website | HTML, Tailwind CSS, PHP |
+| 5 | 📚 [Bookstore](https://github.com/AtchayaR2005/bookstore) | Online bookstore with cart & login | PHP, SQL, HTML, CSS |
+| 6 | 🎨 [Portfolio Site](https://github.com/AtchayaR2005/atchaya-portfolio) | Personal UI/UX portfolio showcase | HTML, CSS |
 
 ---
 
